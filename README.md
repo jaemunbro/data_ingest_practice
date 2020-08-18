@@ -1,2 +1,1 @@
-# data_ingest (정재문)
-
+# data_ingest_practice
